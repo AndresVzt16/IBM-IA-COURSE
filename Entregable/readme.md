@@ -17,14 +17,20 @@ Proponer el desarrollo de un chatbot que facilite el acceso estructurado a los r
 
 
 # Caracteristicas
-1. Fuente
+1. Fuente: archivos csv: clientes, productos, 
 2. Definicion
 3. Estructura
 4. Tipos 
 5. Escala
 
 # Pasos
-1. 
+1. Ejecutar programa
+2. Mostrar mensaje de bienvenida
+3. Mostrar menú de opciones
+4. Ingresar una opción
+5. Mostrar la información relacionada a la opción elegida 
+6. Mostrar opción de seguir consultando o salir
+7. Mostrar menú de opciones o mensaje de despedida, según opción seleccionada
 
 # Diagrama de flujo
 
