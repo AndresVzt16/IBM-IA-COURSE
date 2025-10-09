@@ -12,7 +12,7 @@ El sistema desarrollado permite **registrar ventas**, **gestionar inventario** y
 La documentación técnica del sistema aún no ha sido elaborada, por lo que no se dispone de descripciones detalladas sobre la arquitectura, el diseño, los procesos implementados ni las especificaciones técnicas del proyecto.
 
 # Solucion
-
+Presentar la infomracion mediante el diseño de un chatbot que permita obtener los recursos brindados por el minimarket de una forma estruvtural.
 
 
 # Caracteristicas
